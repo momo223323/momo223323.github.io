@@ -6,7 +6,7 @@ favicon: https://momo223323.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
-    url: /a
+    url: /
   - name: 关于
     url: /about
   - name: 分类
